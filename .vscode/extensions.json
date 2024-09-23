@@ -1,6 +1,6 @@
 {
     "recommendations": [
         "editorconfig.editorconfig",
-        "github.vscode-github-actions"
+        "github.vscode-github-actions",
     ],
 }
